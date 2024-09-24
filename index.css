@@ -1,0 +1,21 @@
+
+.left{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    width: 20;
+    align-self: flex-end;
+    margin: -8px;
+}
+.lHome{
+    width: 35px;
+    padding-top: 20px;
+}
+.lhome:hover{
+    cursor: pointer;
+    color: grey;
+}
+.lsearch{
+    cursor: pointer;
+    color: ;
+}
